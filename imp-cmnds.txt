@@ -1,0 +1,3 @@
+yarn hardhat node
+yarn hardhat deploy --network sepolia
+yarn hardhat run scripts/mockOffchain.js
